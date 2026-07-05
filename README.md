@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building full-stack web applications using the MERN stack<br><br>👯 I’m looking to collaborate on Web development & beginner-friendly open source projects<br><br>🤝 I’m looking for help with real-world projects, internships & freelancing opportunities<br><br>🌱 I’m currently learning MERN Stack & improving my backend + problem-solving skills<br><br>💬 Ask me about Python, Web Development & basic Data Science concepts<br><br>⚡ Fun fact: I can work with both code & productivity tools like MS Office efficiently
+🔭 I’m currently working on building full-stack web applications using the MERN stack<br><br>👯 I’m looking to collaborate on Web development & beginner-friendly open source projects<br><br>🌱 I’m currently learning MERN Stack & improving my backend + problem-solving skills<br><br>💬 Ask me about Python, Web Development & basic Data Science concepts<br><br>⚡ Fun fact: I can work with both code & productivity tools like MS Office efficiently
 
 
 ## 🌐 Socials:
